@@ -4,14 +4,17 @@ Hard Skills
 Liguagens:
 - JavaScript
 - TypeScript
+
 Com ênfase:
 - React
 - Node.js
 - NextJS
+
 Banco de dados:
 - Relacional SQL- SQL Server, MYSQL, PostgreSQL,
 - Não Relacional - NoSQL (MongoDB)
 - GIT
+
 Front-end:
 - HTML
 - CSS
