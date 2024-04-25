@@ -7,13 +7,8 @@ Olá!!
 
 Hard Skills
 Liguagens:
-- JavaScript
-- TypeScript
-
-Com ênfase:
-- React
-- Node.js
-- NextJS
+- Python
+- R
 
 Banco de dados:
 - Relacional SQL- SQL Server, MYSQL, PostgreSQL,
