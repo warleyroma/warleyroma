@@ -1,9 +1,5 @@
 Olá!!
 
-[![card](https://github-readme-stats.vercel.app/api?username=warleyroma&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 Hard Skills
 Liguagens:
 - Python
