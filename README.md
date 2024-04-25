@@ -1,6 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-
-![](https://komarev.com/ghpvc/?username=warleyroma&color=006bed)
 
 ## Sobre mim
 
@@ -65,6 +64,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-warleyroma@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:warleyroma@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/warleyroma)
 
+![](https://komarev.com/ghpvc/?username=warleyroma&color=006bed)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
