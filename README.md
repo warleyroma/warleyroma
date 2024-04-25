@@ -1,9 +1,8 @@
 Olá!!
 
-[![card](https://github-readme-stats.vercel.app/api?username=warleyromatheme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=warleyroma&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?=username=warleyroma=anuraghazra&hide=contribs,prs)
 
 Hard Skills
 Liguagens:
