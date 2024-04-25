@@ -1,31 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-Olá!!
-
-Hard Skills
-Liguagens:
-- Python
-- R
-
-Banco de dados:
-- Relacional SQL- SQL Server, MYSQL, PostgreSQL,
-- Não Relacional - NoSQL (MongoDB)
-- GIT
-
-Front-end:
-- HTML
-- CSS
-
-- ETL com Python, Talend e Pentaho, Web Scraping, Coletando dados de sites, efetuando Analise Exploratória de Dados, modelagem de dados, criando, conectando e armazenando em banco de dados SQL e integrando o mesmo no POWER BI ou Tableau gerando Dashboards , consultas e analise de dados no SQL, MYSQL.
 
 
 ![](https://komarev.com/ghpvc/?username=warleyroma&color=006bed)
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🤔 Analise de dados.
+- 🔬 Ciência de dados.
+- 🎓 Estudante do curso de Pós graduação em análise de dados e inteligência artificial na UFMA.
+- 💼 Trabalhando como Cientista de dados freelancer.
+- 🌱 Aprendendo mais sobre Python, R e diversas outras ferramentas para analisar dados e implementar modelos.
 
 ## Minhas Skills
 
@@ -67,6 +51,14 @@ Front-end:
 <a href="https://github.com/warleyroma" title="Perfil do Warley">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warleyroma&theme=dracula&show_icons=true" />
 </a>
+
+## Projetos
+
+- ETL com Python, Talend e Pentaho.
+- Web Scraping
+- Coletando dados de sites
+- Efetuando Analise Exploratória de Dados
+- Modelagem de dados, criando, conectando e armazenando em banco de dados SQL e integrando o mesmo no POWER BI ou Tableau gerando Dashboards , consultas e analise de dados no SQL, MYSQL.
 
 ## Onde me encontrar
 
