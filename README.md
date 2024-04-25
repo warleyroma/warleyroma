@@ -63,7 +63,6 @@
 [![Linkedin](https://img.shields.io/badge/-Warleyroma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warley-roma-a42367b0/)](https://www.linkedin.com/in/warley-roma-a42367b0/)
 [![Gmail Badge](https://img.shields.io/badge/-warleyroma@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:warleyroma@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/warleyroma)
-
-![](https://komarev.com/ghpvc/?username=warleyroma&color=006bed)
+[!](https://komarev.com/ghpvc/?username=warleyroma&color=006bed)
 
 
