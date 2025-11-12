@@ -5,10 +5,9 @@
 
 - 🤔 Analise de dados.
 - 🔬 Ciência de dados.
-- 🎓 Estudante do curso de Pós graduação em análise de dados e inteligência artificial na UFMA.
+- 🎓 Especialista em análise de dados e inteligência artificial na UFMA.
 - 🎓 Estudante do curso de Desenvolvimento Web Fullstack no IEL.
 - 💼 Trabalhando como Cientista de dados freelancer.
-- 🌱 Aprendendo mais sobre Python, R e diversas outras ferramentas para analisar dados e implementar modelos.
 
 ## Minhas Skills
 
