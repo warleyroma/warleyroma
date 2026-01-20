@@ -45,9 +45,15 @@
 
 <br/>
 
-<a href="https://github.com/warleyroma" title="Perfil do Warley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warleyroma&theme=dracula&show_icons=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/warleyroma" title="Perfil do Warley no GitHub">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=warleyroma&theme=dracula&show_icons=true&hide_border=true"
+      height="180em"
+    />
+  </a>
+</p>
+
 
 ## Projetos
 
