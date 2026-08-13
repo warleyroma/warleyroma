@@ -72,6 +72,17 @@ My goal is to build practical solutions that go beyond processing data, transfor
 
 ## 📫 Let's Connect
 
+---
+
+## How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warley%20Roma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warley-roma/)
+[![Gmail](https://img.shields.io/badge/Gmail-warleyroma@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:warleyroma@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-warleyroma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/warleyroma)
+
+![Profile Views](https://komarev.com/ghpvc/?username=warleyroma&style=for-the-badge&color=0A66C2)
+
+
 Feel free to explore my repositories and follow my journey across **Data, AI, and Technology**.
 
 ---
