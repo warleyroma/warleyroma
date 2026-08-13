@@ -78,8 +78,6 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 
 ---
 
-🇧🇷 **Português** · [🇺🇸 English version](./README.en.md)
-
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Warley%20Roma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warley-roma/)
@@ -88,5 +86,8 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 
 ![Profile Views](https://komarev.com/ghpvc/?username=warleyroma&style=for-the-badge&color=0A66C2)
 
+---
+
+🇧🇷 **Português** · [🇺🇸 English version](./README.en.md)
 
 
