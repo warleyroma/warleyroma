@@ -2,62 +2,83 @@
 
 # Warley Roma
 
-### Data Analyst | Data Scientist | AI
+### Analista de Dados | Cientista de Dados | Inteligência Artificial
 
-I build data-driven solutions that turn raw data into insights, decisions, and intelligent applications.
+🇧🇷 Português · [🇺🇸 Read this profile in English](./README.en.md)
 
-My main interests are:
+Transformo dados em **insights, análises e soluções inteligentes** para apoiar decisões e resolver problemas reais.
 
-- 📊 Data Analysis & Business Intelligence
-- 🐍 Python & SQL
-- 🤖 Artificial Intelligence & Machine Learning
-- 📈 Data Visualization
-- 🔄 Data Engineering & ETL
-- ☁️ APIs, Cloud & Automation
-
-### What I work with
-
-**Data & Analytics**
-- Python
-- Pandas
-- NumPy
-- SQL
-- MySQL
-- Power BI
-- Streamlit
-
-**AI & Machine Learning**
-- Scikit-learn
-- Generative AI
-- LLM applications
-- AI APIs
-
-**Development**
-- FastAPI
-- REST APIs
-- JavaScript / TypeScript
-- Git & GitHub
-- Docker
-
-### Featured Projects
-
-🔹 [Data Analytics Portfolio](https://github.com/warleyroma/data-analytics-portfolio)
-
-Data analysis projects focused on real-world business problems, exploratory analysis, visualization and storytelling.
-
-🔹 [Healthcare Cost Analytics](https://github.com/warleyroma/medicalcost_dashboard)
-
-Interactive analysis of healthcare insurance costs using Python and Streamlit.
-
-🔹 [API Pizzaria](https://github.com/warleyroma/apipizzaria)
-
-REST API built with FastAPI, MySQL and cloud deployment.
-
-### Currently
-
-I'm continuously building projects at the intersection of **Data, AI and Software Engineering**.
+Tenho interesse principalmente na interseção entre **Dados, Inteligência Artificial e Engenharia de Software**.
 
 ---
+
+## 🧠 Áreas de interesse
+
+* 📊 Análise de Dados e Business Intelligence
+* 🐍 Python e SQL
+* 🤖 Inteligência Artificial e Machine Learning
+* 📈 Visualização de Dados e Data Storytelling
+* 🔄 ETL e Engenharia de Dados
+* ☁️ APIs, Cloud e Automação
+* 💻 Desenvolvimento de soluções orientadas a dados
+
+---
+
+## 🛠️ Tecnologias
+
+### Dados & Analytics
+
+`Python` · `Pandas` · `NumPy` · `SQL` · `MySQL` · `Power BI` · `Streamlit`
+
+### Inteligência Artificial
+
+`Scikit-learn` · `Machine Learning` · `Generative AI` · `LLM Applications` · `AI APIs`
+
+### Desenvolvimento
+
+`FastAPI` · `REST APIs` · `JavaScript` · `TypeScript` · `Git` · `GitHub` · `Docker`
+
+---
+
+## ⭐ Projetos em destaque
+
+### 📊 Data Analytics Portfolio
+
+Projetos de análise de dados voltados para problemas de negócio, exploração de dados, visualização e geração de insights.
+
+👉 [Ver projeto](https://github.com/warleyroma/data-analytics-portfolio)
+
+### 🏥 Healthcare Cost Analytics
+
+Análise interativa de custos de seguros de saúde utilizando Python e Streamlit, explorando fatores associados aos custos e apresentando os resultados por meio de visualizações.
+
+👉 [Ver projeto](https://github.com/warleyroma/medicalcost_dashboard)
+
+### 🍕 API Pizzaria
+
+API REST desenvolvida com FastAPI, MySQL e recursos de cloud, demonstrando integração entre backend, banco de dados e serviços de infraestrutura.
+
+👉 [Ver projeto](https://github.com/warleyroma/apipizzaria)
+
+---
+
+## 🚀 Atualmente
+
+Estou desenvolvendo projetos que conectam:
+
+**Dados → Análise → Inteligência Artificial → Software**
+
+Meu objetivo é construir soluções práticas que não apenas processem dados, mas transformem informações em **insights, automações e decisões melhores**.
+
+---
+
+## 📫 Vamos conectar
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução na área de **Dados, IA e Tecnologia**.
+
+---
+
+🇧🇷 **Português** · [🇺🇸 English version](./README.en.md)
 
 ## Onde me encontrar
 
